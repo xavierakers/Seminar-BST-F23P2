@@ -1,0 +1,28 @@
+print location
+
+insert 1
+Overview of HCI Research at VT
+0610051600 90 32 32 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present 
+insert 23
+Overview of HCI Research at VT
+0610051600 90 32 110 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present 
+print location
+
+insert 2
+Computational Biology and 
+      0610071600       60     32     90 30
+Bioinformatics computation_biology
+    Introduction to   
+
+print location
+
+insert 10
+Computing Systems Research at VT
+0701250830  30 4   4  17
+high_performance_computing           grids     VT computer science
+  Seminar about the      Computing systems research at      VT
+print location

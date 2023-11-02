@@ -1,0 +1,153 @@
+Delete FAILED -- There is no record with ID 1
+Successfully inserted record with ID 1
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 2
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 10
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+Successfully inserted record with ID 3
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 0, Y: 0, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+ID Tree:
+      null
+    10
+        null
+      3
+        null
+  2
+    null
+1
+  null
+Number of records: 4
+Cost Tree:
+  null
+45
+    null
+  30
+        null
+      25
+        null
+    17
+      null
+Number of records: 4
+Date Tree:
+        null
+      1203301125
+        null
+    0701250830
+      null
+  0610071600
+    null
+0610051600
+  null
+Number of records: 4
+Keyword Tree:
+            null
+          science
+            null
+        high_performance_computing
+            null
+          grids
+                null
+              computer_science
+                null
+            computer
+              null
+      computation_biology
+        null
+    Virginia_Tech
+        null
+      Virginia_Tech
+        null
+  VT
+      null
+    VT
+        null
+      VT
+          null
+        HPC
+          null
+HCI
+    null
+  Computer_Science
+          null
+        Computer_Science
+            null
+          CSE
+            null
+      Biology
+        null
+    Bioinformatics
+      null
+Number of records: 18
+Record with ID 1 successfully deleted from the database
+ID Tree:
+    null
+  10
+      null
+    3
+      null
+2
+  null
+Number of records: 3
+Cost Tree:
+  null
+30
+      null
+    25
+      null
+  17
+    null
+Number of records: 3
+Date Tree:
+      null
+    1203301125
+      null
+  0701250830
+    null
+0610071600
+  null
+Number of records: 3
+Keyword Tree:
+            null
+          science
+            null
+        high_performance_computing
+            null
+          grids
+                null
+              computer_science
+                null
+            computer
+              null
+      computation_biology
+        null
+    Virginia_Tech
+      null
+  VT
+      null
+    VT
+        null
+      HPC
+        null
+Computer_Science
+        null
+      CSE
+        null
+    Biology
+      null
+  Bioinformatics
+    null
+Number of records: 14
+Delete FAILED -- There is no record with ID 1

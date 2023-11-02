@@ -1,0 +1,8 @@
+ID Tree:
+This tree is empty
+Keyword Tree:
+This tree is empty
+Cost Tree:
+This tree is empty
+Date Tree:
+This tree is empty

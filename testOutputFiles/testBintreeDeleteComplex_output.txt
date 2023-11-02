@@ -1,0 +1,125 @@
+Location Tree:
+E
+Successfully inserted record with ID 1
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 90, Y: 90, Cost: 45
+Description: This seminar will present
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 2
+ID: 2, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 95, Y: 95, Cost: 45
+Description: This seminar will present
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 3
+ID: 3, Title: Computational Biology and 
+Date: 0610071600, Length: 100, X: 100, Y: 90, Cost: 30
+Description: Introduction to
+Keywords: Bioinformatics, computation_biology
+Successfully inserted record with ID 4
+ID: 4, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 105, Y: 105, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+Successfully inserted record with ID 5
+ID: 5, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 110, Y: 110, Cost: 30
+Description: Introduction to   bioinformatics
+Keywords: Bioinformatics, computation_biology, Biology
+Successfully inserted record with ID 6
+ID: 6, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 115, Y: 115, Cost: 17
+Description: 
+Keywords: high_performance_computing, grids, VT, computer, science
+Successfully inserted record with ID 7
+ID: 7, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 120, Y: 120, Cost: 45
+Description: This seminar will present an overv
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 8
+ID: 8, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 125, Y: 125, Cost: 45
+Description: This seminar will present an ov
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 9
+ID: 9, Title: Overview of HPC and CSE Research at VT
+Date: 0703301125, Length: 35, X: 32, Y: 32, Cost: 25
+Description: Learn what kind of    research is
+Keywords: HPC, CSE, computer_science
+Successfully inserted record with ID 10
+ID: 10, Title: Overview of HPC and CSE Research at VT
+Date: 0703301125, Length: 35, X: 120, Y: 120, Cost: 25
+Description: Learn what kind of    researc
+Keywords: HPC, CSE, computer_science
+Successfully inserted record with ID 11
+ID: 11, Title: Overview of HPC and CSE Research at VT
+Date: 0703301125, Length: 35, X: 127, Y: 127, Cost: 25
+Description: Learn what kind of    research
+Keywords: HPC, CSE, computer_science
+Successfully inserted record with ID 12
+ID: 12, Title: Overview of HPC and CSE Research at VT
+Date: 0703301125, Length: 35, X: 16, Y: 5, Cost: 25
+Description: Learn what kind of    research T
+Keywords: HPC, CSE, computer_science
+Location Tree:
+I
+  I
+    I
+      Leaf with 1 objects: 12
+      Leaf with 1 objects: 9
+    E
+  I
+    E
+    I
+      I
+        I
+          E
+          I
+            E
+            I
+              E
+              I
+                E
+                I
+                  Leaf with 1 objects: 1
+                  Leaf with 1 objects: 2
+        E
+      I
+        Leaf with 1 objects: 3
+        I
+          I
+            I
+              E
+              I
+                E
+                I
+                  Leaf with 1 objects: 4
+                  Leaf with 1 objects: 5
+            E
+          I
+            E
+            I
+              Leaf with 1 objects: 6
+              I
+                E
+                I
+                  Leaf with 2 objects: 7 10
+                  I
+                    E
+                    I
+                      Leaf with 1 objects: 8
+                      Leaf with 1 objects: 11
+Record with ID 9 successfully deleted from the database
+Record with ID 1 successfully deleted from the database
+Record with ID 2 successfully deleted from the database
+Record with ID 3 successfully deleted from the database
+Record with ID 5 successfully deleted from the database
+Record with ID 12 successfully deleted from the database
+Record with ID 10 successfully deleted from the database
+Record with ID 8 successfully deleted from the database
+Record with ID 6 successfully deleted from the database
+Record with ID 11 successfully deleted from the database
+Record with ID 4 successfully deleted from the database
+Record with ID 7 successfully deleted from the database
+Delete FAILED -- There is no record with ID 9
+Location Tree:
+E

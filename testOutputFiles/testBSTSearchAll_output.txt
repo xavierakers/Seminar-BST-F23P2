@@ -1,0 +1,88 @@
+Successfully inserted record with ID 1
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 2
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 10
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+Successfully inserted record with ID 3
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 0, Y: 0, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+Found record with ID 1:
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Found record with ID 2:
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+Found record with ID 3:
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 0, Y: 0, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+Found record with ID 10:
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+Seminars with dates in range 0 to 1:
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+8 nodes visited in this search
+Seminars with costs in range 30 to 50:
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+7 nodes visited in this search
+Seminars with costs in range 0 to 20:
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+6 nodes visited in this search
+Seminars matching keyword CSE:
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 0, Y: 0, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+Seminars matching keyword VT:
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech

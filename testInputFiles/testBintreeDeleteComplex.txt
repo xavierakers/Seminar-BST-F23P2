@@ -1,0 +1,90 @@
+print location
+
+insert 1
+Overview of HCI Research at VT
+0610051600 90 90 90 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present 
+insert 2
+Overview of HCI Research at VT
+0610051600 90 95 95 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present 
+
+
+insert 3
+Computational Biology and 
+      0610071600       100     100     90 30
+Bioinformatics computation_biology
+    Introduction to   
+
+
+
+insert 4
+Computing Systems Research at VT
+0701250830  30 105   105 17
+high_performance_computing           grids     VT computer science
+  Seminar about the      Computing systems research at      VT
+
+  insert 5
+Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     110     110 30
+Bioinformatics computation_biology Biology
+    Introduction to   bioinformatics
+insert 6
+Computing Systems Research at VT
+0701250830  30 115   115  17
+high_performance_computing           grids     VT computer science
+
+insert 7
+Overview of HCI Research at VT
+0610051600 90 120 120 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present an overv 
+insert 8
+Overview of HCI Research at VT
+0610051600 90 125 125 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present an ov
+insert 9
+Overview of HPC and CSE Research at VT
+0703301125     35        32  32                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    research is 
+insert 10
+Overview of HPC and CSE Research at VT
+0703301125     35        120 120                                           25
+      HPC      CSE      computer_science 
+Learn what kind of    researc
+insert 11
+Overview of HPC and CSE Research at VT
+0703301125     35        127 127                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research
+
+insert 12
+Overview of HPC and CSE Research at VT
+0703301125     35        16 5                                          25
+      HPC      CSE      computer_science 
+Learn what kind of    research T
+
+
+print location
+
+delete 9
+delete 1
+delete 2
+
+delete 3
+delete 5
+delete 12
+delete 10
+delete 8
+delete 6
+delete 11
+delete 4
+
+delete 7
+delete 9
+
+print location
